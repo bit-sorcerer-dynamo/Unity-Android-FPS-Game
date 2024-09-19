@@ -5,6 +5,14 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemy
+  - F
+  - B
+  - L
+  - R
+  - FL
+  - FR
+  - BL
+  - BR
   layers:
   - Default
   - TransparentFX
